@@ -1,17 +1,19 @@
 import os
 
+
 def clear():
     os.system('cls' if os.name == 'nt' else 'clear')
+
 
 # Пример использования
 clear()
 n = int(input())
 print((n//4)+1)
-print(n%4)
+print(n % 4)
 print(4-n)
 
-20 =4 *5 
-19 5*4-1 
+20 = 4 * 5
+19 5*4-1
 18 5*4-2
 17 5*4-3
 
@@ -29,4 +31,4 @@ print(4-n)
 8 4*2-0
 
 n 4*n//**-(4-n)
-
+https: // stepik.org/lesson/284816/step/18?auth = registration & unit = 266160
